@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Malins React
+          Coola Malins React 
         </a>
       </header>
     </div>
